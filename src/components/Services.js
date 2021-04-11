@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { FaCocktail, FaHaking, FaShuttleVan, FaBeer, FaHiking } from 'react-icons/fa';
+import { FaCocktail, FaShuttleVan, FaBeer, FaHiking } from 'react-icons/fa';
 import Title from './Title';
 
 export default class Services extends Component {
@@ -26,6 +26,7 @@ export default class Services extends Component {
                 title: "Strongest Beer", 
                 info: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis vero at quia, voluptates ex."
             }
+
         ]
     }
 
